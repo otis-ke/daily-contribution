@@ -13,7 +13,7 @@ Welcome to the Daily Contributions repository, a place for daily collaboration a
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
-## Introduction
+## Introduction 
 
 Daily Contributions is an open and dynamic project where contributors like you can actively participate and collaborate. Your consistent daily input drives the project's growth, making it even more awesome.
 
